@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/keypad/src/main/res/layout/activity_main.xml" value="0.1791363830696879" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2947916666666667" />
+        <entry key="basic_app/src/main/res/layout/activity_main.xml" value="0.2419837537409149" />
+        <entry key="ch6_view/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2315" />
+        <entry key="ch6_view/src/main/res/drawable/ic_launcher_background.xml" value="0.2315" />
+        <entry key="ch6_view/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="ch6_view/src/main/res/layout/constraintlayout_exam.xml" value="0.375" />
+        <entry key="ch6_view/src/main/res/layout/framelayout_exam.xml" value="0.2989583333333333" />
+        <entry key="ch6_view/src/main/res/layout/gridlayout_examl.xml" value="0.2171875" />
+        <entry key="eventexam/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="eventexam/src/main/res/drawable/ic_launcher_background.xml" value="0.254" />
+        <entry key="eventexam/src/main/res/drawable/round_button.xml" value="0.254" />
+        <entry key="eventexam/src/main/res/drawable/test.xml" value="0.1645" />
+        <entry key="eventexam/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="jetpack_lib/src/main/res/layout/activity_main.xml" value="0.2261650277896537" />
+        <entry key="jetpack_lib/src/main/res/layout/fragment_one.xml" value="0.12825994014536127" />
+        <entry key="jetpack_lib/src/main/res/layout/item_main.xml" value="0.18597691321077384" />
+        <entry key="jetpack_lib/src/main/res/layout/item_recyclerview.xml" value="0.1393758016246259" />
+        <entry key="jetpack_lib/src/main/res/menu/menu_main.xml" value="0.18597691321077384" />
+        <entry key="keypad/src/main/res/layout/activity_main.xml" value="0.2989583333333333" />
+        <entry key="keypad/src/main/res/layout/keypad_exam.xml" value="0.19010416666666666" />
+        <entry key="keypad/src/main/res/layout/keypad_examl.xml" value="0.16979166666666667" />
+        <entry key="resource_exam/src/main/res/drawable-v24/round_button.xml" value="0.1795" />
+        <entry key="resource_exam/src/main/res/drawable/gradient_box.xml" value="0.1655" />
+        <entry key="resource_exam/src/main/res/drawable/round_button.xml" value="0.1795" />
+        <entry key="resource_exam/src/main/res/layout-asdf/activity2_main.xml" value="0.16979166666666667" />
+        <entry key="resource_exam/src/main/res/layout-haha/activity_main.xml" value="0.16979166666666667" />
+        <entry key="resource_exam/src/main/res/layout-land/activity2_main.xml" value="0.1437389770723104" />
+        <entry key="resource_exam/src/main/res/layout/activity2_main.xml" value="0.17083333333333334" />
+        <entry key="resource_exam/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="resource_exam/src/main/res/layout/messenger.xml" value="0.21014492753623187" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

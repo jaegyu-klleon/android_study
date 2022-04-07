@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Latte"
+include ':app'
+include ':ch6_view'
+include ':keypad'
+include ':eventexam'
+include ':resource_exam'
+include ':basic_app'
+include ':jetpack_lib'
